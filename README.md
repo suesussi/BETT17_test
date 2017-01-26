@@ -1,2 +1,2 @@
-# BETT17_test
+# BETT17-test
 BETT17
